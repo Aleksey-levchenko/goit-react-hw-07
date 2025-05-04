@@ -4,7 +4,7 @@ import {
   selectFilteredContacts,
   selectLoading,
   selectError,
-} from "../../redux/contacts/contactsSlice";
+} from "../../redux/contactsSlice";
 import ContactListItem from "../ContactListItem/ContactListItem";
 import ContactListStyles from "./ContactList.module.css";
 
